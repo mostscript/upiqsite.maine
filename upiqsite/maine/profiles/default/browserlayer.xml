@@ -1,0 +1,6 @@
+<?xml version="1.0"?>    
+<layers> 
+  <layer name="upiqsite.maine" 
+         interface="upiqsite.maine.interfaces.IMaineSiteProductLayer" /> 
+</layers>
+
